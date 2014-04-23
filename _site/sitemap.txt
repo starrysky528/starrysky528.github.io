@@ -8,4 +8,5 @@ http://username.github.io/categories.html
 http://username.github.io/sitemap.txt
 http://username.github.io/atom.xml
 
+http://username.github.io/2014/04/22/first-blog
 http://username.github.io/lessons/2011/12/29/jekyll-introduction
