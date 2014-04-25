@@ -1,22 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-        <title>Jekyll Bootstrap</title>
-        <description>Jekyll Bootstrap - Name Lastname</description>
-        <link>http://username.github.io</link>
-        <link>http://username.github.io</link>
-        <lastBuildDate>2014-04-22T23:34:02-04:00</lastBuildDate>
-        <pubDate>2014-04-22T23:34:02-04:00</pubDate>
+        <title>Melon's Blog</title>
+        <description>Melon's Blog - Name Lastname</description>
+        <link>http://starrysky528.github.io</link>
+        <link>http://starrysky528.github.io</link>
+        <lastBuildDate>2014-04-24T21:10:17-04:00</lastBuildDate>
+        <pubDate>2014-04-24T21:10:17-04:00</pubDate>
         <ttl>1800</ttl>
 
-
-        <item>
-                <title>First Blog</title>
-                <description></description>
-                <link>http://username.github.io/2014/04/22/first-blog</link>
-                <guid>http://username.github.io/2014/04/22/first-blog</guid>
-                <pubDate>2014-04-22T00:00:00-04:00</pubDate>
-        </item>
 
         <item>
                 <title>Jekyll Introduction</title>
@@ -334,8 +326,8 @@ tags : [how-to, jekyll]&lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&quot;next_steps&quot;&gt;Next Steps&lt;/h2&gt;
 
 &lt;p&gt;Please take a look at &lt;a href=&quot;&quot;&gt;&lt;/a&gt; or jump right into &lt;a href=&quot;&quot;&gt;Usage&lt;/a&gt; if you’d like.&lt;/p&gt;</description>
-                <link>http://username.github.io/lessons/2011/12/29/jekyll-introduction</link>
-                <guid>http://username.github.io/lessons/2011/12/29/jekyll-introduction</guid>
+                <link>http://starrysky528.github.io/lessons/20111229/jekyll-introduction</link>
+                <guid>http://starrysky528.github.io/lessons/20111229/jekyll-introduction</guid>
                 <pubDate>2011-12-29T00:00:00-05:00</pubDate>
         </item>
 

@@ -69,3 +69,15 @@ body {
 	color:#FFF;
 }
 	
+.index-content {
+  width: 900%;
+  margin: 0 auto;
+}
+
+.title-desc {
+  color: #919191;
+  font-size: 15px;
+  line-height: 1.6em;
+}
+.sidenav { width:240px; background:#fff; float:right; padding:20px; margin-bottom:50px; box-shadow:0 1px 4px #ccc; }
+

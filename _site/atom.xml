@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Jekyll Bootstrap</title>
- <link href="http://username.github.io/" rel="self"/>
- <link href="http://username.github.io"/>
- <updated>2014-04-22T23:34:02-04:00</updated>
- <id>http://username.github.io</id>
+ <title>Melon's Blog</title>
+ <link href="http://starrysky528.github.io/" rel="self"/>
+ <link href="http://starrysky528.github.io"/>
+ <updated>2014-04-24T21:10:17-04:00</updated>
+ <id>http://starrysky528.github.io</id>
  <author>
    <name>Name Lastname</name>
    <email>blah@email.test</email>
@@ -13,18 +13,10 @@
 
  
  <entry>
-   <title>First Blog</title>
-   <link href="http://username.github.io/2014/04/22/first-blog"/>
-   <updated>2014-04-22T00:00:00-04:00</updated>
-   <id>http://username.github.io/2014/04/22/first-blog</id>
-   <content type="html"></content>
- </entry>
- 
- <entry>
    <title>Jekyll Introduction</title>
-   <link href="http://username.github.io/lessons/2011/12/29/jekyll-introduction"/>
+   <link href="http://starrysky528.github.io/lessons/20111229/jekyll-introduction"/>
    <updated>2011-12-29T00:00:00-05:00</updated>
-   <id>http://username.github.io/lessons/2011/12/29/jekyll-introduction</id>
+   <id>http://starrysky528.github.io/lessons/20111229/jekyll-introduction</id>
    <content type="html">&lt;p&gt;This Jekyll introduction will outline specifically what Jekyll is and why you would want to use it. Directly following the intro we’ll learn exactly &lt;em&gt;how&lt;/em&gt; Jekyll does what it does.&lt;/p&gt;
 
 &lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
